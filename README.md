@@ -6,14 +6,15 @@ based on https://angular.io/docs/ts/latest/quickstart.html - 2016-02-13
 
 1. npm
 
-## steps
+## getting started
 
 1. > git clone https://github.com/fabiorecife/angular2-quickstart.git
 2. > cd angular2-quickstart
 3. > npm install
-4. > npm start
+4. > tsc
+5. > npm start
 
-# tools
+## tools
 
 1. [atom](https://atom.io/)
 2. [atom-typescript package](https://atom.io/packages/atom-typescript)
