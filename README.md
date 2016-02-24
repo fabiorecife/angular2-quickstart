@@ -8,11 +8,13 @@ based on https://angular.io/docs/ts/latest/quickstart.html - 2016-02-13
 
 ## getting started
 
-1. > git clone https://github.com/fabiorecife/angular2-quickstart.git
-2. > cd angular2-quickstart
-3. > npm install
-4. > tsc
-5. > npm start
+```bash
+git clone https://github.com/fabiorecife/angular2-quickstart.git
+cd angular2-quickstart
+npm install
+tsc
+npm start
+```
 
 ## tools
 
