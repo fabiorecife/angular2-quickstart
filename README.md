@@ -20,3 +20,7 @@ npm start
 
 1. [atom](https://atom.io/)
 2. [atom-typescript package](https://atom.io/packages/atom-typescript)
+
+## tip
+
+- before (re)install (npm install) remove typings directory (rm -rf typings)
