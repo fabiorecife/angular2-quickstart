@@ -24,3 +24,4 @@ npm start
 ## tip
 
 - before (re)install (npm install) remove typings directory (rm -rf typings)
+and node_modules (rm -rf node_modules)
