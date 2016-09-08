@@ -1,0 +1,19 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+
+// Files
+
+    // Configure glob patterns for excluding files and folders.
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.DS_Store": true,
+        "app/**/.spec.ts": true,
+        "app/**/.spec.js.map": true,
+         "app/**/.js": true,
+         "app/**/.js.map": true,
+       "app/**/.spec.js": true
+
+    }
+
+}
